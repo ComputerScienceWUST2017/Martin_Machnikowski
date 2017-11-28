@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511823775 source:e:\martina\i2p\lab6\linemanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	"manager.h"
+
+1511822791 e:\martina\i2p\lab6\linemanager\include\manager.h
+	"WordTools.h"
+
+1511823930 source:e:\martina\i2p\lab6\linemanager\src\manager.c
+	"manager.h"
+	<ctype.h>
+
+1511822791 e:\martina\i2p\lab6\linemanager\include\wordtools.h
+
+1511824368 source:e:\martina\i2p\lab6\linemanager\src\wordtools.c
+	"WordTools.h"
+
